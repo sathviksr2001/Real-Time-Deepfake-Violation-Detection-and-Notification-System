@@ -140,7 +140,6 @@ Screenshot saved to: violations/fake_20240502_143000.jpg
 ## 🔐 License
 
 MIT License © 2025  
-Author: [Your Name]
 
 ## 🙋 FAQ
 
